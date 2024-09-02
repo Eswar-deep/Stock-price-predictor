@@ -1,4 +1,4 @@
-<h1 align="center">💰 Stock Market Prediction using LSTM 💸</h1>
+<h1 align="center">💰 Stock Price Prediction using LSTM 💸</h1>
 
 <p align="center">
   <img src="Stock market.jpeg" alt="Stock Market Prediction" />
